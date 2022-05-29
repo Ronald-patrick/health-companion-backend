@@ -1,0 +1,1 @@
+web: gunicorn addiction_tracker.wsgi --log-file -
